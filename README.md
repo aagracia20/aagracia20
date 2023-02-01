@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Amanda, a beginner front-end web developer. 
+- 👋  Hi, I’m Amanda.
 
 - 👀  I’m interested in the basics: HTML, CSS, Javascript.
 - 🌱  I’m currently learning HTML and CSS.
